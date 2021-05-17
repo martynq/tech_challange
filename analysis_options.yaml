@@ -1,0 +1,9 @@
+analyzer:
+  errors:
+    missing_required_param: error
+
+linter:
+  rules:
+    prefer_const_declarations: true
+    avoid_unnecessary_containers: true
+    sort_pub_dependencies: false
