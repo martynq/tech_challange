@@ -31,7 +31,7 @@ class CountryPickerModalSheet extends StatelessWidget {
           ),
         ],
       ),
-      height: MediaQuery.of(context).size.height * .80,
+      height: MediaQuery.of(context).size.height * .85,
       child: Column(
         children: [
           SizedBox(
